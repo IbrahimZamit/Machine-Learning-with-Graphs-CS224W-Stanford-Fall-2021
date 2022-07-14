@@ -1,10 +1,14 @@
 # Machine-Learning-with-Graphs-CS224W-Stanford-Fall-2021
 
-Instructor: **Jurij Leskovec** \\
+Instructor: **Jurij Leskovec** 
 
-Instructor page: https://profiles.stanford.edu/jure-leskovec \\
+Instructor page: https://profiles.stanford.edu/jure-leskovec 
 
 Official course website: https://web.stanford.edu/class/cs224w/index.html
+
+Youtube playlist (2021 updated): https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+
+*PS*: the lecture slides/videos/assignments are all posted online for free to use by the general public.
 
 ## Content
 #### What is this course about?
